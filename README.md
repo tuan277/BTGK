@@ -102,4 +102,4 @@ Quy trình xử lý chung cho cả 4 chức năng:
 - dotenv
 
 ## Tác giả
-Dự án - Bài tập lớn Đề tài: Xây dựng ứng dụng thương mại điện tử Đa mặt hàng
+Nhóm dự án - Bài tập lớn Đề tài: Xây dựng ứng dụng thương mại điện tử Đa mặt hàng
